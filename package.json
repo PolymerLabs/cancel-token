@@ -1,0 +1,27 @@
+{
+  "name": "cancel-token",
+  "version": "0.1.0",
+  "description": "Implementation of the minimal, polyfillable parts of https://github.com/tc39/proposal-cancelable-promises",
+  "main": "cancel-token.js",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rictic/cancel-token.git"
+  },
+  "keywords": [
+    "cancel-token",
+    "cancellation",
+    "cancelation"
+  ],
+  "author": "Peter Burns <rictic@google.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rictic/cancel-token/issues"
+  },
+  "homepage": "https://github.com/rictic/cancel-token#readme",
+  "devDependencies": {
+    "typescript": "^2.1.4"
+  }
+}
