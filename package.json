@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Implementation of the minimal, polyfillable parts of https://github.com/tc39/proposal-cancelable-promises",
   "main": "cancel-token.js",
+  "typings": "cancel-token.d.ts",
   "scripts": {
     "prepublish": "tsc"
   },
@@ -22,6 +23,10 @@
   },
   "homepage": "https://github.com/rictic/cancel-token#readme",
   "devDependencies": {
+    "tslint": "^4.1.0",
     "typescript": "^2.1.4"
+  },
+  "dependencies": {
+    "@types/node": "^4.0.30"
   }
 }
