@@ -83,7 +83,7 @@ export class CancelToken {
 export class Cancel {
   message: string;
   constructor(reason?: any) {
-    this.message = '' + reason;
+    this.message = '' + (reason || '');
   }
 
   toString() {
