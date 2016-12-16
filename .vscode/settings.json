@@ -3,10 +3,10 @@
   "clang-format.style": "file",
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
-  "files.exclude": {
-    "*.js": true,
-    "*.d.ts": true,
-    "*.js.map": true
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "lib": true
   },
   "typescript.tsdk": "./node_modules/typescript/lib"
 }
