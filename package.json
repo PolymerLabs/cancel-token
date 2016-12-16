@@ -1,6 +1,6 @@
 {
   "name": "cancel-token",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Implementation of https://github.com/littledan/proposal-cancelable-promises",
   "main": "lib/cancel-token.js",
   "typings": "lib/cancel-token.d.ts",
