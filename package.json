@@ -1,7 +1,7 @@
 {
   "name": "cancel-token",
   "version": "0.1.0",
-  "description": "Implementation of the minimal, polyfillable parts of https://github.com/tc39/proposal-cancelable-promises",
+  "description": "Implementation of https://github.com/littledan/proposal-cancelable-promises",
   "main": "cancel-token.js",
   "typings": "cancel-token.d.ts",
   "scripts": {
