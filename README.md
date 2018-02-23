@@ -1,9 +1,4 @@
-## CancelToken and Cancel Polyfill
-
-This a polyfill of the polyfillable parts of the proposed cancellable promises spec.
-
-See https://github.com/littledan/proposal-cancelable-promises for more details.
-
+## CancelToken and Cancel Library
 
 ### Use
 
@@ -42,3 +37,9 @@ To test:
 To watch source files and rerun tests when they change:
 
     npm test:watch
+
+### History
+
+This is based on a proposed cancellable promises spec which has since been withdrawn / gone dormant.
+
+See https://github.com/littledan/proposal-cancelable-promises for more details.

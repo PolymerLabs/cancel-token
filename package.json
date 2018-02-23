@@ -12,19 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rictic/cancel-token.git"
+    "url": "git+https://github.com/PolymerLabs/cancel-token.git"
   },
   "keywords": [
     "cancel-token",
     "cancellation",
     "cancelation"
   ],
-  "author": "Peter Burns <rictic@google.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/rictic/cancel-token/issues"
+    "url": "https://github.com/PolymerLabs/cancel-token/issues"
   },
-  "homepage": "https://github.com/rictic/cancel-token#readme",
+  "homepage": "https://github.com/PolymerLabs/cancel-token#readme",
   "devDependencies": {
     "@types/chai": "^3.4.34",
     "@types/mocha": "^2.2.33",
